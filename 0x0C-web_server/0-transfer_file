@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-
 # Transfers a file from Holberton's client to another.
+
 # Accepts four arguments:
 #+    path to the file to be transferred.
 #+    IP of the server to transfer the file to.
